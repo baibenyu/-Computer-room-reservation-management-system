@@ -1,0 +1,2 @@
+date:4 interval:2 stuId:1 stuName:baiyu roomId:3 status:1
+date:1 interval:2 stuId:1 stuName:baiyu roomId:2 status:1
